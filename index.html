@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Student Form</title>
+    <link rel="stylesheet" href="form.css">
+    <script src="form.js" defer ></script>
+</head>
+<body>
+    <h1>STUDENT FORM</h1>
+    <form id="forum">
+        <table border="1px">
+            <tr>
+                <th>Name</th>
+                <td><input id="name" type="text"></td>
+            </tr>
+            <tr>
+                <th>Age</th>
+                <td><input id="age" type="number"></td>
+            </tr>
+            <tr>
+                <th>Gender</th>
+                <td id="gen"><input type="radio" name="Gender" value="Male">Male
+                <input type="radio" name="Gender" value="Female">Female</td>
+            </tr>
+            <tr>
+                <th>Cource</th>
+                <td><select id="select">
+                    <option>JavaScript</option>
+                    <option>Python</option>
+                    <option>C++</option>
+                </td>
+            </tr>
+            <tr>
+                <th>E-mail</th>
+                <td><input id="email" type="email"></td>
+            </tr>
+        </table>
+        <button id="sav" onclick="save(event)">Save</button>
+    </form>
+    <form>
+        <table  border="">
+           <tbody id="output">
+            <tr id="sep">
+                <th>Name</th>
+                <th>Age</th>
+                <th>Course</th>
+                <th>Gender</th>
+                <th>Email</th>
+                <th>Action</th>
+            </tr>
+
+           </tbody> 
+           
+        </table>
+    </form>
+</body>
+</html>

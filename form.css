@@ -1,0 +1,29 @@
+#sav{
+    text-align: center;
+    background-color: lightseagreen;
+    color: black;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    color: to;
+    flex-direction: column;
+    background: rgb(166, 57, 78);
+    color: rgb(208, 208, 130);
+}
+#forum{
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+#del{
+    width: 100%;
+    background-color: crimson;
+    color: wheat;
+}
