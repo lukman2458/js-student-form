@@ -1,4 +1,4 @@
-# 📝 Student Form App
+# 📝 Student Form
 
 A simple student form built using HTML, CSS, and JavaScript where users can enter details and manage them in a dynamic table.
 
