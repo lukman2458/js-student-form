@@ -1,7 +1,21 @@
-# js_student_form
-<p>A simple student form done using html , inline css & and javascript where user can fill the form and able to save or delete in a table</p>
-<h4>Here how it works : http://127.0.0.1:5500/mini_projects/04%20-%20html+css+js/student_form.html</h4>
+# 📝 Student Form App
 
-<h3>Skills I learned in this mini project</h3>
-<h5>*Able to get input of different data types from user</h5>
-<h5>*Able to save them in a table and able to delete</h5>
+A simple student form built using HTML, CSS, and JavaScript where users can enter details and manage them in a dynamic table.
+
+## 🚀 Live Demo
+🔗 https://lukman2458.github.io/js-student-form/
+
+## 📸 Preview
+![Student Form Preview](form.png)
+
+## 🛠️ Features
+- Add student details through form inputs
+- Display data dynamically in a table
+- Delete entries from the table
+- Basic form handling and validation
+
+## 📚 What I Learned
+- Handling different types of user inputs
+- Dynamically updating the DOM
+- Creating and managing table data using JavaScript
+- Implementing add and delete functionality
